@@ -1,5 +1,7 @@
 # Scaffold
 
+![scaffold-logo](https://github.com/d3ltah/scaffold/assets/118836504/f59689fa-d88d-40bc-9f12-c2dea6ba8645)
+
 Scaffold is a very simple and bare-bones builder to generate clean, customisable web pages just by changing
 a few values in a file.
 
@@ -26,6 +28,7 @@ To set a title for your page, all you need to do is head to the `config.js` file
 in the `CONFIG` object.
 
 *`config.js`*
+
 
 ```js
 const CONFIG = {
