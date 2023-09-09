@@ -1,6 +1,6 @@
 # Scaffold
 
-![scaffold-logo](https://github.com/d3ltah/scaffold/assets/118836504/f59689fa-d88d-40bc-9f12-c2dea6ba8645)
+![scaffold-logo](https://github.com/d3ltah/scaffold/assets/118836504/1557a6d7-6b7f-406a-a9e6-0fbd6ef40541)
 
 Scaffold is a very simple and bare-bones builder to generate clean, customisable web pages just by changing
 a few values in a file.
